@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/@jerrysa9" target="blank"><img src="https://img.shields.io/twitter/follow/@jerrysa9?logo=twitter&style=for-the-badge" alt="@jerrysa9" /></a> </p>
 
+- 🌱 I’m currently learning **Pug**
+- 💬 Ask me about **HTML, CSS, Android Studio...**
+- 📫 How to reach me **villarueljane0@gmail.com**
+- 📄 Know about my experiences ***bit.ly/46pgHuK*
 - ⚡ Fun fact **I can sing**
 
 <h3 align="left">Connect with me:</h3>
