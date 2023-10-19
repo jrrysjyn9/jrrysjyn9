@@ -39,6 +39,13 @@ New Era University
 <hr>
 
 <h3>Certifications</h3>
+
+<pre>
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/e623985d2b34f89be4c55af359ed4e04edcf200b?raw=1">Understanding Data Science</a>
+DataCamp
+October 19, 2023
+</pre>
+
 <pre>Intellectual Property Patents
 New Era University
 March 30, 2023
