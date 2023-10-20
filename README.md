@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Pug**
 - 💬 Ask me about **HTML, CSS, Android Studio...**
 - 📫 How to reach me **villarueljane0@gmail.com**
-- 📄 Know about my experiences [bit.ly/46pgHuK](bit.ly/46pgHuK)
 - ⚡ Fun fact **I can sing**
 
 <h3 align="left">Connect with me:</h3>
