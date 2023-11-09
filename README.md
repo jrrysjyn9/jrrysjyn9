@@ -40,7 +40,7 @@ New Era University
 <h3>Certifications</h3>
 
 <pre>
-<a href="[https://www.datacamp.com/statement-of-accomplishment/course/e623985d2b34f89be4c55af359ed4e04edcf200b?raw=1](https://catalog-education.oracle.com/pls/certview/sharebadge?id=51777668B9AE2F541E4DEA19C44FACE589A4121C5BF49F98497CC6B138961088)">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=51777668B9AE2F541E4DEA19C44FACE589A4121C5BF49F98497CC6B138961088">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a>
 Oracle
 November 07, 2023
 </pre>
